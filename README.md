@@ -4,7 +4,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1143899002463588423?showDisplayName=true&hideTimestamp=true)](https://discord.com/users/1143899002463588423)
 
 ## Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=github,java" />  
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=github,java,bat" />  
 
 ## Github About
 <picture>
