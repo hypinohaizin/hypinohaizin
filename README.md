@@ -1,5 +1,5 @@
 ## My Info
-## 適当なソフトからコードパクってRenameしたりしてるSkidder
+Fuckin World
 
 ## Github About
 <picture>
