@@ -1,5 +1,5 @@
 ## My Info
-Fuckin World
+I am quitting Cheat, Crack, and Leak and leaving GitHub inactive.
 
 ## Github About
 <picture>
