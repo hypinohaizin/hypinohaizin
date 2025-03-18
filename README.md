@@ -1,7 +1,4 @@
-## My Info
-I am quitting Cheat, Crack, and Leak and leaving GitHub inactive. 
 
-My last commit on GitHub was an update for vonware-1.5.0.
 
 ## Github About
 <picture>
