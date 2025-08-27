@@ -30,21 +30,3 @@
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hypinohaizin&layout=compact&hide_border=true&langs_count=10" />
   </picture>
 </p>
-
-<p align="center">
-  <picture>
-    <source srcset="https://streak-stats.demolab.com?user=hypinohaizin&hide_border=true&mode=weekly&theme=transparent" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://streak-stats.demolab.com?user=hypinohaizin&hide_border=true&mode=weekly" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img height="170" src="https://streak-stats.demolab.com?user=hypinohaizin&hide_border=true&mode=weekly" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hypinohaizin&theme=flat&no-frame=true&column=6" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/hypinohaizin">
-    <img src="https://ssr-contributions-svg.vercel.app/_/hypinohaizin?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=off" height="160">
-  </a>
-</p>
