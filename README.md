@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?perline=12&i=python,java,js,ts,html,css,nodejs,gradle,maven,git,github,idea,vscode,react,tailwind,webpack"/>
+  <img src="https://skillicons.dev/icons?perline=12&i=python,java,js,html,css,nodejs,gradle,maven,git,github,idea,vscodek"/>
 </p>
 
 <p align="center">
