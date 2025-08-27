@@ -1,13 +1,4 @@
 <!-- Gen By ChatGPT -->
-
-<p align="center">
-  <a href="https://github.com/hypinohaizin?tab=followers"><img src="https://img.shields.io/github/followers/hypinohaizin?style=flat&label=Followers"></a>
-  <a href="https://github.com/hypinohaizin"><img src="https://img.shields.io/github/stars/hypinohaizin?style=flat&label=Stars"></a>
-  <img src="https://komarev.com/ghpvc/?username=hypinohaizin&style=flat&label=Profile%20Views">
-  <img src="https://img.shields.io/badge/OS-Windows-blue">
-  <img src="https://img.shields.io/badge/TZ-Asia%2FTokyo-ff69b4">
-</p>
-
 <p align="center">
   <a href="https://discord.com/users/1143899002463588423">
     <img src="https://lanyard.cnrad.dev/api/1143899002463588423?theme=dark&bg=transparent&borderRadius=20px" />
