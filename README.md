@@ -1,10 +1,3 @@
-<!-- Gen By ChatGPT -->
-<p align="center">
-  <a href="https://discord.com/users/1143899002463588423">
-    <img src="https://lanyard.cnrad.dev/api/1143899002463588423?theme=dark&bg=transparent&borderRadius=20px" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?perline=12&i=python,java,js,html,css,nodejs,gradle,maven,git,github,idea,vscodek"/>
 </p>
